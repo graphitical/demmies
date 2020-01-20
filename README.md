@@ -9,4 +9,18 @@ Eventually, I would like to do some more analysis of who was the most cost effec
 
 For now, I'll update this periodically to check in on the plotting and have some fun.
 
+# Analysis
+## Points to Date
 ![Points To Date](figs/point_total.png)
+
+## Candidate Values
+![Candidate Value](figs/candidate_values.png)
+![Candidate Values Ordered](figs/candidate_values_ordered.png)
+
+## Candidate Points
+![Candidate Points](figs/candidate_points.png)
+![Candidate Points Ordered](figs/candidate_points_ordered.png)
+
+
+## Sources:
+1) Plot inspiration taken from [here](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/#15.-Ordered-Bar-Chart)
