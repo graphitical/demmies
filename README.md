@@ -8,3 +8,5 @@ The results of the draft can be found in Roster.xlsx which is also where I track
 Eventually, I would like to do some more analysis of who was the most cost effective with their points (i.e. most points per dollar spent) and other silly awards, hence the Demmy Awards.
 
 For now, I'll update this periodically to check in on the plotting and have some fun.
+
+![Points To Date](figs/point_total.png)
