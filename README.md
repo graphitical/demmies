@@ -23,7 +23,8 @@ Point rules can be summarized as getting 1 point per day per candidate as long a
 1. Each candidate accumulates 1 point per day they stay in the race starting inclusive of the final date of the auction (which was June 15, 2019)
 1. 50 points for picking the winning candidate. No bonus points for candidate becoming running mate.
 1. Candidates in the race accumulate points until the day of the actual vote at the Democratic National Convention (DNC)
-1. A vote will be held on what to do if a candidate drops from the democratic primary and begins running as 3rd part
+1. A vote will be held on what to do if a candidate drops from the democratic primary and begins running as 3rd party
+
 ## The 22/24 Compromise
 As mentioned above, at the beginning of the auction there were only 21 candidates announced to run and it was assumed Joe Biden would also run (making him a bit of a wild card in the draft). With 6 drafters, it was implied that this would allow 4 drafters to get 4 candidates, while 2 drafters would end up with 3; however, this was not an explicit rule.
 
@@ -34,7 +35,7 @@ Of course, like all good pedantic friend groups, we began to quibble over this a
 1. Keep going down the current auction draft with no candidate max/min
 1. Keep going down the current auction draft, add the two new candidates, but still keep the max total number of candidates at 22 (meaning that there would still be an uneven distribution of candidates)
 
-In the end, Option 6 was voted as the best option. It was also decided that these would be the final rules and any more late comers to the race (looking at you Bloomberg) would not be considered.
+In the end, Option 5 was voted as the best option. It was also decided that these would be the final rules and any more late comers to the race (looking at you Bloomberg) would not be considered.
 
 # Analysis
 ## Points to Date
